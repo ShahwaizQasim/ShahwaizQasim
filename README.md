@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋I'm, Syed Shahwaiz</h2>
+<h2 align="center">Hi 👋I'm, Syed Shahwaiz</h2>
 
 ###
 
