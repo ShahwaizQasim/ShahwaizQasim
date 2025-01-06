@@ -4,6 +4,7 @@
 
 <div align="center">
   <h3 align="center">Passionate MERN Stack Developer skilled in creating dynamic, responsive, and user-centric applications with a focus on quality, scalability, and innovation.</h3>
+  </div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
 - 🌱 Currently I am doing BSCS at ILMA UnIVERSITY
@@ -12,12 +13,30 @@
   
 - 🌐 Interests: Web development, open-source contributions, and continuous learning 
 
-- 💬 Ask me about **Javascript | React.JS | Next.js | React Native **
-
 - 📫 How to reach me **syedshahwaiz32@gmail.com**
-</div>
+
 
 ###
+
+
+
+<h3 align="left" style="border-top:10px">Connect with me:</h3>
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/syed-shahwaiz-qasim-01467b26b/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
+  </a>
+	<a href="https://twitter/shehryardev" target="blank" style="padding:8px">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" />
+  </a>
+	<a href="https://www.instagram.com/syedshahwaizqasim/" target="blank" style="padding:8px">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="shehza.d" height="50" width="50" />
+  </a>
+	<a href="https://discord.com/shehryar26" target="blank" style="padding:8px">
+    <img align="center"	src="https://skillicons.dev/icons?i=discord" alt="shehza.d" height="50" width="50" />
+  </a>
+</p>
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
