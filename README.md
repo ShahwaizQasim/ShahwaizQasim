@@ -1,8 +1,10 @@
-<h2 align="center">Hi 👋I'm, Syed Shahwaiz</h2>
+<h2 align="center">Hi 👋I'm, Syed Shahwaiz Qasim</h2>
 
 ###
 
 <div align="center">
+  <h3 align="center">Passionate and skilled MERN Stack Developer with a strong foundation in modern web development technologies. Proficient in building dynamic, responsive, and user-centric applications using MongoDB, Express.js, React.js, and Node.js. Dedicated to delivering high-quality, efficient, and scalable solutions while continuously learning and adapting to emerging technologies. Open to collaborating on innovative projects that drive meaningful impact.</h3>
+
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
